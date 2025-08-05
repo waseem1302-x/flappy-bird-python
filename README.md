@@ -8,8 +8,7 @@ A beginner-friendly Flappy Bird clone created using Python and Pygame. This was 
 
 ## 📸 Screenshot
 
-![Flappy Bird Screenshot](assets/homeScreen.png)  
-*Add a screenshot of your game screen to this location in the repository.*
+![Flappy Bird Screenshot](assets/homeScreen.png)
 
 ---
 
