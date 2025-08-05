@@ -58,9 +58,8 @@ flappy-bird/
    ```bash
    git clone https://github.com/your-username/flappy-bird-game.git
    cd flappy-bird-game
-````
 
-2. **Install Pygame**:
+## Install Pygame:
 
    ```bash
    pip install pygame
@@ -88,5 +87,3 @@ This game was created as a group project by a team of four students during Semes
 ## ⭐ GitHub Tags
 
 `#python` `#pygame` `#flappybird` `#gamedev` `#beginner-project` `#student-project`
-
-```
