@@ -1,4 +1,3 @@
-```markdown
 # 🐤 Flappy Bird Game in Python (Pygame)
 
 A beginner-friendly Flappy Bird clone created using Python and Pygame. This was developed as part of an academic project during my first semester in Computer Science.
